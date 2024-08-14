@@ -1,0 +1,7 @@
+D:\C#\HuffmanCodingFinal\HuffmanCodingFinal\bin\Debug\HuffmanCodingFinal.exe.config
+D:\C#\HuffmanCodingFinal\HuffmanCodingFinal\bin\Debug\HuffmanCodingFinal.exe
+D:\C#\HuffmanCodingFinal\HuffmanCodingFinal\bin\Debug\HuffmanCodingFinal.pdb
+D:\C#\HuffmanCodingFinal\HuffmanCodingFinal\obj\Debug\HuffmanCodingFinal.csproj.AssemblyReference.cache
+D:\C#\HuffmanCodingFinal\HuffmanCodingFinal\obj\Debug\HuffmanCodingFinal.csproj.CoreCompileInputs.cache
+D:\C#\HuffmanCodingFinal\HuffmanCodingFinal\obj\Debug\HuffmanCodingFinal.exe
+D:\C#\HuffmanCodingFinal\HuffmanCodingFinal\obj\Debug\HuffmanCodingFinal.pdb
